@@ -1,0 +1,9 @@
+export default {
+  email: "",
+
+  cloudflare: {
+    zoneId: "",
+    authKey: "",
+    authEmail: ""
+  }
+}
